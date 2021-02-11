@@ -24,4 +24,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/g4D7qRRLRU.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Trying to create a gif was unexpectedly difficult. For the prework, the quicktime player method worked just fine yet for some reason no matter the method, the gif simply would not be embedded into the readme file despite editing on hackmd.
